@@ -1,3 +1,134 @@
 <resources>
     <string name="app_name">Anchorage Tours</string>
+
+    <!-- category names -->
+    <string name="category_eats">Eats</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_parks">Parks</string>
+
+    <!-- eats -->
+    <string name="eats_rockwood_name"></string>
+    <string name="eats_rockwood_description"></string>
+    <string name="eats_rockwood_address"></string>
+    <string name="eats_rockwood_phone"></string>
+    <string name="eats_rockwood_hours"></string>
+
+    <string name="eats_moosetooth_name"></string>
+    <string name="eats_moosetooth_description"></string>
+    <string name="eats_moosetooth_address"></string>
+    <string name="eats_moosetooth_phone"></string>
+    <string name="eats_moosetooth_hours"></string>
+
+    <string name="eats_firetap_name"></string>
+    <string name="eats_firetap_description"></string>
+    <string name="eats_firetap_address"></string>
+    <string name="eats_firetap_phone"></string>
+    <string name="eats_firetap_hours"></string>
+
+    <string name="eats_og_name"></string>
+    <string name="eats_og_description"></string>
+    <string name="eats_og_address"></string>
+    <string name="eats_og_phone"></string>
+    <string name="eats_og_hours"></string>
+
+    <string name="eats_akdinner_name"></string>
+    <string name="eats_akdinner_description"></string>
+    <string name="eats_akdinner_address"></string>
+    <string name="eats_akdinner_phone"></string>
+    <string name="eats_akdinner_hours"></string>
+
+    <!-- hotels-->
+    <string name="hotels_histanc_name"></string>
+    <string name="hotels_histanc_description"></string>
+    <string name="hotels_histanc_address"></string>
+    <string name="hotels_histanc_phone"></string>
+    <string name="hotels_histanc_hours"></string>
+
+    <string name="hotels_embassy_name"></string>
+    <string name="hotels_embassy_description"></string>
+    <string name="hotels_embassy_address"></string>
+    <string name="hotels_embassy_phone"></string>
+    <string name="hotels_embassy_hours"></string>
+
+    <string name="hotels_lakefront_name"></string>
+    <string name="hotels_lakefront_description"></string>
+    <string name="hotels_lakefront_address"></string>
+    <string name="hotels_lakefront_phone"></string>
+    <string name="hotels_lakefront_hours"></string>
+
+    <string name="hotels_capcook_name"></string>
+    <string name="hotels_capcook_description"></string>
+    <string name="hotels_capcook_address"></string>
+    <string name="hotels_capcook_phone"></string>
+    <string name="hotels_capcook_hours"></string>
+
+    <string name="hotels_sprinkhill_name"></string>
+    <string name="hotels_sprinkhill_description"></string>
+    <string name="hotels_sprinkhill_address"></string>
+    <string name="hotels_sprinkhill_phone"></string>
+    <string name="hotels_sprinkhill_hours"></string>
+    
+    <!-- museums-->
+    <string name="museums_anchmuseum_name"></string>
+    <string name="museums_anchmuseum_description"></string>
+    <string name="museums_anchmuseum_address"></string>
+    <string name="museums_anchmuseum_phone"></string>
+    <string name="museums_anchmuseum_hours"></string>
+
+    <string name="museums_akavi_name"></string>
+    <string name="museums_akavi_description"></string>
+    <string name="museums_akavi_address"></string>
+    <string name="museums_akavi_phone"></string>
+    <string name="museums_akavi_hours"></string>
+
+    <string name="museums_wellshistory_name"></string>
+    <string name="museums_wellshistory_description"></string>
+    <string name="museums_wellshistory_address"></string>
+    <string name="museums_wellshistory_phone"></string>
+    <string name="museums_wellshistory_hours"></string>
+
+    <string name="museums_akscinat_name"></string>
+    <string name="museums_akscinat_description"></string>
+    <string name="museums_akscinat_address"></string>
+    <string name="museums_akscinat_phone"></string>
+    <string name="museums_akscinat_hours"></string>
+
+    <string name="museums_akvets_name"></string>
+    <string name="museums_akvets_description"></string>
+    <string name="museums_akvets_address"></string>
+    <string name="museums_akvets_phone"></string>
+    <string name="museums_akvets_hours"></string>
+
+    <!-- parks -->
+    <string name="parks_denali_name"></string>
+    <string name="parks_denali_description"></string>
+    <string name="parks_denali_address"></string>
+    <string name="parks_denali_phone"></string>
+    <string name="parks_denali_hours"></string>
+
+    <string name="parks_katmai_name"></string>
+    <string name="parks_katmai_description"></string>
+    <string name="parks_katmai_address"></string>
+    <string name="parks_katmai_phone"></string>
+    <string name="parks_katmai_hours"></string>
+
+    <string name="parks_kenai_name"></string>
+    <string name="parks_kenai_description"></string>
+    <string name="parks_kenai_address"></string>
+    <string name="parks_kenai_phone"></string>
+    <string name="parks_kenai_hours"></string>
+
+    <string name="parks_clark_name"></string>
+    <string name="parks_clark_description"></string>
+    <string name="parks_clark_address"></string>
+    <string name="parks_clark_phone"></string>
+    <string name="parks_clark_hours"></string>
+
+    <string name="parks_wrangell_name"></string>
+    <string name="parks_wrangell_description"></string>
+    <string name="parks_wrangell_address"></string>
+    <string name="parks_wrangell_phone"></string>
+    <string name="parks_wrangell_hours"></string>
+    
 </resources>
