@@ -8,41 +8,41 @@
     <string name="category_parks">Parks</string>
 
     <!-- eats -->
-    <string name="eats_rockwood_name">content</string>
-    <string name="eats_rockwood_description">content</string>
-    <string name="eats_rockwood_address">content</string>
-    <string name="eats_rockwood_phone">content</string>
-    <string name="eats_rockwood_hours">content</string>
+    <string name="eats_rockwood_name">The Rock Wood Fired Kitchen</string>
+    <string name="eats_rockwood_description">Rock and roll-themed pizza chain known for its wood-fired pies, cocktails &amp; microbrews.</string>
+    <string name="eats_rockwood_address">3401 Penland Pkwy, Anchorage, AK 99508</string>
+    <string name="eats_rockwood_phone">(907)677&#8212;6000</string>
+    <string name="eats_rockwood_hours">Mon&#8211;Sun 11AM&#8211;12AM</string>
 
-    <string name="eats_moosetooth_name">content</string>
-    <string name="eats_moosetooth_description">content</string>
-    <string name="eats_moosetooth_address">content</string>
-    <string name="eats_moosetooth_phone">content</string>
-    <string name="eats_moosetooth_hours">content</string>
+    <string name="eats_moosetooth_name">Mooses Tooth Pub &amp; Pizzeria</string>
+    <string name="eats_moosetooth_description">Inventive pizzas &amp; house-brewed beer served in a bustling, colorful hangout with psychedelic art.</string>
+    <string name="eats_moosetooth_address">3300 Old Seward Hwy, Anchorage, AK 99503</string>
+    <string name="eats_moosetooth_phone">(907) 258&#8212;2537</string>
+    <string name="eats_moosetooth_hours">Mon&#8211;Th 10:30AM&#8211;11PM, Fri&#8211;Sat 11AM&#8211;12AM, Sun 11AM&#8211;11PM</string>
 
-    <string name="eats_firetap_name">content</string>
-    <string name="eats_firetap_description">content</string>
-    <string name="eats_firetap_address">content</string>
-    <string name="eats_firetap_phone">content</string>
-    <string name="eats_firetap_hours">content</string>
+    <string name="eats_firetap_name">FireTap Alehouse</string>
+    <string name="eats_firetap_description">Inventive pizzas, plus pasta &amp; sandwiches, in a relaxed, spacious spot with dozens of craft beers</string>
+    <string name="eats_firetap_address">10950 OMalley Centre Dr, Anchorage, AK 99515</string>
+    <string name="eats_firetap_phone">(907) 561&#8212;2337</string>
+    <string name="eats_firetap_hours">Mon&#8211;Fri 11AM&#8211;11PM, Sat&#8211;Sun 11AM&#8211;12AM</string>
 
-    <string name="eats_og_name">content</string>
-    <string name="eats_og_description">content</string>
-    <string name="eats_og_address">content</string>
-    <string name="eats_og_phone">content</string>
-    <string name="eats_og_hours">content</string>
+    <string name="eats_og_name">Olive Garden</string>
+    <string name="eats_og_description">Lively, family-friendly chain featuring Italian standards such as pastas &amp; salads, with a full bar.</string>
+    <string name="eats_og_address">1186 N Muldoon Rd, Anchorage, AK 99504</string>
+    <string name="eats_og_phone">(907) 333&#8212;1300</string>
+    <string name="eats_og_hours">Mon&#8211;Sun 11AM&#8211;10PM</string>
 
-    <string name="eats_akdinner_name">content</string>
-    <string name="eats_akdinner_description">content</string>
-    <string name="eats_akdinner_address">content</string>
-    <string name="eats_akdinner_phone">content</string>
-    <string name="eats_akdinner_hours">content</string>
+    <string name="eats_akdinner_name">Alaska Dinner Factory</string>
+    <string name="eats_akdinner_description">Alaska Dinner Factory delivers a great meal without all of the preparation and cleanup.</string>
+    <string name="eats_akdinner_address">5905 Lake Otis Pkwy # E, Anchorage, AK 99507</string>
+    <string name="eats_akdinner_phone">(907) 677&#8212;6633</string>
+    <string name="eats_akdinner_hours">Mon&#8211;Fri 11AM&#8211;7PM, Sat 9AM&#8211;3PM, Sun closed</string>
 
     <!-- hotels-->
-    <string name="hotels_histanc_name">content</string>
-    <string name="hotels_histanc_description">content</string>
-    <string name="hotels_histanc_address">content</string>
-    <string name="hotels_histanc_phone">content</string>
+    <string name="hotels_histanc_name">Historic Anchorage Hotel</string>
+    <string name="hotels_histanc_description">Storied property with homey rooms &amp; suites, plus complimentary continental breakfast &amp; a gym.</string>
+    <string name="hotels_histanc_address">330 E St, Anchorage, AK 99501</string>
+    <string name="hotels_histanc_phone">(907) 272&#8212;4553</string>
     <string name="hotels_histanc_hours">content</string>
 
     <string name="hotels_embassy_name">content</string>
@@ -130,6 +130,7 @@
     <string name="parks_wrangell_address">content</string>
     <string name="parks_wrangell_phone">content</string>
     <string name="parks_wrangell_hours">content</string>
+
     <string name="imageContentDescription">shopDescription</string>
 
 </resources>

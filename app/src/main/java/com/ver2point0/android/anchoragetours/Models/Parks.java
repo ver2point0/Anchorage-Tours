@@ -11,7 +11,7 @@ public class Parks {
     public static void parksList(List<Location> parksList, Context context) {
 
         parksList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.parks1pic,
                 context.getString(R.string.parks_denali_name),
                 context.getString(R.string.parks_denali_description),
                 context.getString(R.string.parks_denali_address),
@@ -20,7 +20,7 @@ public class Parks {
         ));
 
         parksList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.parks2pic,
                 context.getString(R.string.parks_katmai_name),
                 context.getString(R.string.parks_katmai_description),
                 context.getString(R.string.parks_katmai_address),
@@ -29,7 +29,7 @@ public class Parks {
         ));
 
         parksList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.parks3pic,
                 context.getString(R.string.parks_kenai_name),
                 context.getString(R.string.parks_kenai_description),
                 context.getString(R.string.parks_kenai_address),
@@ -38,7 +38,7 @@ public class Parks {
         ));
 
         parksList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.parks4pic,
                 context.getString(R.string.parks_clark_name),
                 context.getString(R.string.parks_clark_description),
                 context.getString(R.string.parks_clark_address),
@@ -47,7 +47,7 @@ public class Parks {
         ));
 
         parksList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.parks5pic,
                 context.getString(R.string.parks_wrangell_name),
                 context.getString(R.string.parks_wrangell_description),
                 context.getString(R.string.parks_wrangell_address),

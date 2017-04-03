@@ -11,7 +11,7 @@ public class Hotels {
     public static void hotelsList(List<Location> hotelsList, Context context) {
 
         hotelsList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.hotels2pic,
                 context.getString(R.string.hotels_embassy_name),
                 context.getString(R.string.hotels_embassy_description),
                 context.getString(R.string.hotels_embassy_address),
@@ -20,7 +20,7 @@ public class Hotels {
         ));
 
         hotelsList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.hotels3pic,
                 context.getString(R.string.hotels_lakefront_name),
                 context.getString(R.string.hotels_lakefront_description),
                 context.getString(R.string.hotels_lakefront_address),
@@ -29,7 +29,7 @@ public class Hotels {
         ));
 
         hotelsList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.hotels4pic,
                 context.getString(R.string.hotels_capcook_name),
                 context.getString(R.string.hotels_capcook_description),
                 context.getString(R.string.hotels_capcook_address),
@@ -38,7 +38,7 @@ public class Hotels {
         ));
 
         hotelsList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.hotels5pic,
                 context.getString(R.string.hotels_springhill_name),
                 context.getString(R.string.hotels_springhill_description),
                 context.getString(R.string.hotels_springhill_address),
@@ -47,7 +47,7 @@ public class Hotels {
         ));
 
         hotelsList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.hotels1pic,
                 context.getString(R.string.hotels_histanc_name),
                 context.getString(R.string.hotels_histanc_description),
                 context.getString(R.string.hotels_histanc_address),

@@ -11,7 +11,7 @@ public class Museums {
     public static void museumsList(List<Location> museumsList, Context context) {
 
         museumsList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.m1pic,
                 context.getString(R.string.museums_anchmuseum_name),
                 context.getString(R.string.museums_anchmuseum_description),
                 context.getString(R.string.museums_anchmuseum_address),
@@ -20,7 +20,7 @@ public class Museums {
         ));
 
         museumsList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.m2pic,
                 context.getString(R.string.museums_akavi_name),
                 context.getString(R.string.museums_akavi_description),
                 context.getString(R.string.museums_akavi_address),
@@ -29,7 +29,7 @@ public class Museums {
         ));
 
         museumsList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.m3pic,
                 context.getString(R.string.museums_wellshistory_name),
                 context.getString(R.string.museums_wellshistory_description),
                 context.getString(R.string.museums_wellshistory_address),
@@ -38,7 +38,7 @@ public class Museums {
         ));
 
         museumsList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.m4pic,
                 context.getString(R.string.museums_akscinat_name),
                 context.getString(R.string.museums_akscinat_description),
                 context.getString(R.string.museums_akscinat_address),
@@ -47,7 +47,7 @@ public class Museums {
         ));
 
         museumsList.add(new Location(
-                R.mipmap.ic_launcher,
+                R.drawable.m5pic,
                 context.getString(R.string.museums_akvets_name),
                 context.getString(R.string.museums_akvets_description),
                 context.getString(R.string.museums_akvets_address),
