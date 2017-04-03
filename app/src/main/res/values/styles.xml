@@ -8,4 +8,35 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="locTitle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+
+    <style name="locDescription">
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <style name="locInfo">
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:drawablePadding">8dp</item>
+    </style>
+
+    <style name="tabs">
+        <item name="tabBackground">@color/colorPrimary</item>
+        <item name="tabIndicatorColor">@color/colorAccent</item>
+        <item name="tabSelectedTextColor">@color/colorAccent</item>
+        <item name="tabTextAppearance">@style/tabsText</item>
+    </style>
+
+    <style name="tabsText" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">@color/colorPrimaryLight</item>
+    </style>
 </resources>
