@@ -11,125 +11,125 @@
     <string name="eats_rockwood_name">The Rock Wood Fired Kitchen</string>
     <string name="eats_rockwood_description">Rock and roll-themed pizza chain known for its wood-fired pies, cocktails &amp; microbrews.</string>
     <string name="eats_rockwood_address">3401 Penland Pkwy, Anchorage, AK 99508</string>
-    <string name="eats_rockwood_phone">(907)677&#8212;6000</string>
+    <string name="eats_rockwood_phone">(907)677&#8211;6000</string>
     <string name="eats_rockwood_hours">Mon&#8211;Sun 11AM&#8211;12AM</string>
 
     <string name="eats_moosetooth_name">Mooses Tooth Pub &amp; Pizzeria</string>
     <string name="eats_moosetooth_description">Inventive pizzas &amp; house-brewed beer served in a bustling, colorful hangout with psychedelic art.</string>
     <string name="eats_moosetooth_address">3300 Old Seward Hwy, Anchorage, AK 99503</string>
-    <string name="eats_moosetooth_phone">(907) 258&#8212;2537</string>
+    <string name="eats_moosetooth_phone">(907) 258&#8211;2537</string>
     <string name="eats_moosetooth_hours">Mon&#8211;Th 10:30AM&#8211;11PM, Fri&#8211;Sat 11AM&#8211;12AM, Sun 11AM&#8211;11PM</string>
 
     <string name="eats_firetap_name">FireTap Alehouse</string>
     <string name="eats_firetap_description">Inventive pizzas, plus pasta &amp; sandwiches, in a relaxed, spacious spot with dozens of craft beers</string>
     <string name="eats_firetap_address">10950 OMalley Centre Dr, Anchorage, AK 99515</string>
-    <string name="eats_firetap_phone">(907) 561&#8212;2337</string>
+    <string name="eats_firetap_phone">(907) 561&#8211;2337</string>
     <string name="eats_firetap_hours">Mon&#8211;Fri 11AM&#8211;11PM, Sat&#8211;Sun 11AM&#8211;12AM</string>
 
     <string name="eats_og_name">Olive Garden</string>
     <string name="eats_og_description">Lively, family-friendly chain featuring Italian standards such as pastas &amp; salads, with a full bar.</string>
     <string name="eats_og_address">1186 N Muldoon Rd, Anchorage, AK 99504</string>
-    <string name="eats_og_phone">(907) 333&#8212;1300</string>
+    <string name="eats_og_phone">(907) 333&#8211;1300</string>
     <string name="eats_og_hours">Mon&#8211;Sun 11AM&#8211;10PM</string>
 
     <string name="eats_akdinner_name">Alaska Dinner Factory</string>
     <string name="eats_akdinner_description">Alaska Dinner Factory delivers a great meal without all of the preparation and cleanup.</string>
     <string name="eats_akdinner_address">5905 Lake Otis Pkwy # E, Anchorage, AK 99507</string>
-    <string name="eats_akdinner_phone">(907) 677&#8212;6633</string>
+    <string name="eats_akdinner_phone">(907) 677&#8211;6633</string>
     <string name="eats_akdinner_hours">Mon&#8211;Fri 11AM&#8211;7PM, Sat 9AM&#8211;3PM, Sun closed</string>
 
     <!-- hotels-->
     <string name="hotels_histanc_name">Historic Anchorage Hotel</string>
     <string name="hotels_histanc_description">Storied property with homey rooms &amp; suites, plus complimentary continental breakfast &amp; a gym.</string>
     <string name="hotels_histanc_address">330 E St, Anchorage, AK 99501</string>
-    <string name="hotels_histanc_phone">(907) 272&#8212;4553</string>
-    <string name="hotels_histanc_hours">content</string>
+    <string name="hotels_histanc_phone">(907) 272&#8211;4553</string>
+    <string name="hotels_histanc_hours">Open 24 hours</string>
 
-    <string name="hotels_embassy_name">content</string>
-    <string name="hotels_embassy_description">content</string>
-    <string name="hotels_embassy_address">content</string>
-    <string name="hotels_embassy_phone">content</string>
-    <string name="hotels_embassy_hours">content</string>
+    <string name="hotels_embassy_name">Embassy Suites by Hilton Anchorage</string>
+    <string name="hotels_embassy_description">Modern all-suite hotel with free made-to-order breakfast, a fitness center &amp; an indoor pool.</string>
+    <string name="hotels_embassy_address">600 E Benson Blvd, Anchorage, AK 99503</string>
+    <string name="hotels_embassy_phone">(907) 332&#8211;7000</string>
+    <string name="hotels_embassy_hours">Open 24 hours</string>
 
-    <string name="hotels_lakefront_name">content</string>
-    <string name="hotels_lakefront_description">content</string>
-    <string name="hotels_lakefront_address">content</string>
-    <string name="hotels_lakefront_phone">content</string>
-    <string name="hotels_lakefront_hours">content</string>
+    <string name="hotels_lakefront_name">The Lakefront Anchorage</string>
+    <string name="hotels_lakefront_description">Refined hotel on the lake with 2 restaurants, a fitness center &amp; a floatplane dock.</string>
+    <string name="hotels_lakefront_address">4800 Spenard Rd, Anchorage, AK 99517</string>
+    <string name="hotels_lakefront_phone">(907) 243&#8211;2300</string>
+    <string name="hotels_lakefront_hours">Open 24 hours</string>
 
-    <string name="hotels_capcook_name">content</string>
-    <string name="hotels_capcook_description">content</string>
-    <string name="hotels_capcook_address">content</string>
-    <string name="hotels_capcook_phone">content</string>
-    <string name="hotels_capcook_hours">content</string>
+    <string name="hotels_capcook_name">Hotel Captain Cook</string>
+    <string name="hotels_capcook_description">Sophisticated accommodations in a posh hotel featuring a fitness center, an indoor pool &amp; dining.</string>
+    <string name="hotels_capcook_address">939 W 5th Ave, Anchorage, AK 99501</string>
+    <string name="hotels_capcook_phone">(907) 276&#8211;6000</string>
+    <string name="hotels_capcook_hours">Open 24 hours</string>
 
-    <string name="hotels_springhill_name">content</string>
-    <string name="hotels_springhill_description">content</string>
-    <string name="hotels_springhill_address">content</string>
-    <string name="hotels_springhill_phone">content</string>
-    <string name="hotels_springhill_hours">content</string>
+    <string name="hotels_springhill_name">SpringHill Suites by Marriott Anchorage University Lake</string>
+    <string name="hotels_springhill_description">Modern all-suite hotel with kitchenettes &amp; an indoor pool, plus free WiFi &amp; breakfast buffet.</string>
+    <string name="hotels_springhill_address">4050 University Lake Dr, Anchorage, AK 99508</string>
+    <string name="hotels_springhill_phone">(907) 751&#8211;6300</string>
+    <string name="hotels_springhill_hours">Open 24 hours</string>
     
     <!-- museums-->
-    <string name="museums_anchmuseum_name">content</string>
-    <string name="museums_anchmuseum_description">content</string>
-    <string name="museums_anchmuseum_address">content</string>
-    <string name="museums_anchmuseum_phone">content</string>
-    <string name="museums_anchmuseum_hours">content</string>
+    <string name="museums_anchmuseum_name">Anchorage Museum</string>
+    <string name="museums_anchmuseum_description">Alaskan artifacts &amp; artworks, plus a kid-friendly, hands-on science center &amp; planetarium.</string>
+    <string name="museums_anchmuseum_address">625 C St, Anchorage, AK 99501</string>
+    <string name="museums_anchmuseum_phone">(907) 929&#8211;9200</string>
+    <string name="museums_anchmuseum_hours">Mon closed, Tue&#8211;Th 10AM&#8211;6PM, Fri 10AM&#8211;9PM, Sat 10AM&#8211;6PM, Sun 12PM&#8211;6PM</string>
 
-    <string name="museums_akavi_name">content</string>
-    <string name="museums_akavi_description">content</string>
-    <string name="museums_akavi_address">content</string>
-    <string name="museums_akavi_phone">content</string>
-    <string name="museums_akavi_hours">content</string>
+    <string name="museums_akavi_name">Alaska Aviation Museum</string>
+    <string name="museums_akavi_description">Historic aircraft (which guests may see being restored), plus exhibits, films &amp; a flight simulator.</string>
+    <string name="museums_akavi_address">Ted Stevens Anchorage International Airport (ANC), 4721 Aircraft Dr, Anchorage, AK 99502</string>
+    <string name="museums_akavi_phone">(907) 248&#8211;5325</string>
+    <string name="museums_akavi_hours">Mon&#8211;Sun 9AM&#8211;5PM</string>
 
-    <string name="museums_wellshistory_name">content</string>
-    <string name="museums_wellshistory_description">content</string>
-    <string name="museums_wellshistory_address">content</string>
-    <string name="museums_wellshistory_phone">content</string>
-    <string name="museums_wellshistory_hours">content</string>
+    <string name="museums_wellshistory_name">Alaska Heritage Museum</string>
+    <string name="museums_wellshistory_description">The Alaska Heritage Museum is the largest private collection of its kind in Alaska. In addition to a large collection of Alaskan Native artifacts, and fine art by Alaskan artists, the Museum highlights Wells Fargo history in the Alaskan Gold Rush era, with a two-thirds-scale stagecoach.</string>
+    <string name="museums_wellshistory_address">301 W Northern Lights Blvd, Anchorage, AK 99503</string>
+    <string name="museums_wellshistory_phone">(907) 265&#8211;2834</string>
+    <string name="museums_wellshistory_hours">Mon&#8211;Fri 12PM&#8211;4PM, Sat&#8211;Sun closed</string>
 
-    <string name="museums_akscinat_name">content</string>
-    <string name="museums_akscinat_description">content</string>
-    <string name="museums_akscinat_address">content</string>
-    <string name="museums_akscinat_phone">content</string>
-    <string name="museums_akscinat_hours">content</string>
+    <string name="museums_akscinat_name">Alaska Museum of Science and Nature</string>
+    <string name="museums_akscinat_description">Museum exploring Alaskan natural history, with dinosaur fossils &amp; hands&#8211;on displays for kids.</string>
+    <string name="museums_akscinat_address">201 N Bragaw St, Anchorage, AK 99508</string>
+    <string name="museums_akscinat_phone">(907) 274&#8211;2400</string>
+    <string name="museums_akscinat_hours">Th&#8211;Sat 10AM&#8211;4PM, Mon&#8211;Wed closed, Sun closed</string>
 
-    <string name="museums_akvets_name">content</string>
-    <string name="museums_akvets_description">content</string>
-    <string name="museums_akvets_address">content</string>
-    <string name="museums_akvets_phone">content</string>
-    <string name="museums_akvets_hours">content</string>
+    <string name="museums_akvets_name">Alaska Veterans Museum</string>
+    <string name="museums_akvets_description">The Alaska Veterans Museum is focused on honoring our veterans and insuring that because of the sacrifices they made to defend American freedom, They Shall Not Be Forgotten.</string>
+    <string name="museums_akvets_address">333 W 4th Ave #227, Anchorage, AK 99501</string>
+    <string name="museums_akvets_phone">(907) 677&#8211;8802</string>
+    <string name="museums_akvets_hours">Mon&#8211;Sat 10AM&#8211;6PM, Sun closed</string>
 
     <!-- parks -->
-    <string name="parks_denali_name">content</string>
-    <string name="parks_denali_description">content</string>
-    <string name="parks_denali_address">content</string>
-    <string name="parks_denali_phone">content</string>
-    <string name="parks_denali_hours">content</string>
+    <string name="parks_denali_name">Denali National Park and Preserve</string>
+    <string name="parks_denali_description">This 6 million-acre park with wildlife &amp; tours is home to Denali, the highest peak in the nation.</string>
+    <string name="parks_denali_address">George Parks Hwy, Denali National Park and Preserve, AK</string>
+    <string name="parks_denali_phone">(907) 683&#8211;9532</string>
+    <string name="parks_denali_hours">Open 24 hours</string>
 
-    <string name="parks_katmai_name">content</string>
-    <string name="parks_katmai_description">content</string>
-    <string name="parks_katmai_address">content</string>
-    <string name="parks_katmai_phone">content</string>
-    <string name="parks_katmai_hours">content</string>
+    <string name="parks_katmai_name">Katmai National Park and Preserve</string>
+    <string name="parks_katmai_description">Brown bears &amp; sportfishers love this vast, active volcanic area for its abundant salmon.</string>
+    <string name="parks_katmai_address">King Salmon, AK 99613</string>
+    <string name="parks_katmai_phone">(907) 246&#8211;3305</string>
+    <string name="parks_katmai_hours">Open 24 hours</string>
 
-    <string name="parks_kenai_name">content</string>
-    <string name="parks_kenai_description">content</string>
-    <string name="parks_kenai_address">content</string>
-    <string name="parks_kenai_phone">content</string>
-    <string name="parks_kenai_hours">content</string>
+    <string name="parks_kenai_name">Kenai Fjords National Park</string>
+    <string name="parks_kenai_description">At the edge of the Kenai Peninsula lies a land where the ice age lingers. Nearly 40 glaciers flow from the Harding Icefield, the crowning feature of Kenai Fjords.</string>
+    <string name="parks_kenai_address">Kenai Peninsula, AK</string>
+    <string name="parks_kenai_phone">(907) 422&#8211;0500</string>
+    <string name="parks_kenai_hours">Open 24 hours</string>
 
-    <string name="parks_clark_name">content</string>
-    <string name="parks_clark_description">content</string>
-    <string name="parks_clark_address">content</string>
-    <string name="parks_clark_phone">content</string>
-    <string name="parks_clark_hours">content</string>
+    <string name="parks_clark_name">Lake Clark National Park and Preserve</string>
+    <string name="parks_clark_description">Over 4 million acres of tundra, mountains &amp; lakes, with trails, fishing holes &amp; serene campgrounds.</string>
+    <string name="parks_clark_address">General Delivery,, Port Alsworth, AK 99653</string>
+    <string name="parks_clark_phone">(907) 781&#8211;2117</string>
+    <string name="parks_clark_hours">Open 24 hours</string>
 
-    <string name="parks_wrangell_name">content</string>
-    <string name="parks_wrangell_description">content</string>
-    <string name="parks_wrangell_address">content</string>
-    <string name="parks_wrangell_phone">content</string>
-    <string name="parks_wrangell_hours">content</string>
+    <string name="parks_wrangell_name">Wrangell&#8211;St. Elias National Park &amp; Preserve</string>
+    <string name="parks_wrangell_description">Self-directed wilderness activities in a massive, mountainous park with glaciers &amp; vibrant wildlife.</string>
+    <string name="parks_wrangell_address">Copper Center, AK 99573</string>
+    <string name="parks_wrangell_phone">(907) 822&#8211;7250</string>
+    <string name="parks_wrangell_hours">Open 24 hours</string>
 
     <string name="imageContentDescription">shopDescription</string>
 
