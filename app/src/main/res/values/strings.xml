@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Anchorage Tours</string>
 
-    <!-- category names -->
+<!-- category names -->
     <string name="category_eats">Eats</string>
     <string name="category_hotels">Hotels</string>
     <string name="category_museums">Museums</string>
@@ -63,11 +63,11 @@
     <string name="hotels_capcook_phone">content</string>
     <string name="hotels_capcook_hours">content</string>
 
-    <string name="hotels_sprinkhill_name">content</string>
-    <string name="hotels_sprinkhill_description">content</string>
-    <string name="hotels_sprinkhill_address">content</string>
-    <string name="hotels_sprinkhill_phone">content</string>
-    <string name="hotels_sprinkhill_hours">content</string>
+    <string name="hotels_springhill_name">content</string>
+    <string name="hotels_springhill_description">content</string>
+    <string name="hotels_springhill_address">content</string>
+    <string name="hotels_springhill_phone">content</string>
+    <string name="hotels_springhill_hours">content</string>
     
     <!-- museums-->
     <string name="museums_anchmuseum_name">content</string>
@@ -130,5 +130,6 @@
     <string name="parks_wrangell_address">content</string>
     <string name="parks_wrangell_phone">content</string>
     <string name="parks_wrangell_hours">content</string>
-    
+    <string name="imageContentDescription">shopDescription</string>
+
 </resources>
